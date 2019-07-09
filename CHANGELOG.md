@@ -34,7 +34,6 @@ Get upgrade notes from Sprockets 3.x to 4.x at https://github.com/rails/sprocket
 
 ## 4.0.0.beta4
 
-- Changing the version now busts the digest of all assets [#404]
 - Exporter interface added [#386]
 - Using ENV vars in templates will recompile templates when the env vars change. [#365]
 - Source maps for imported sass files with sassc is now fixed [#391]
